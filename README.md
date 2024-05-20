@@ -18,8 +18,6 @@ sudo systemctl status jenkins
 sudo systemctl start jenkins
 ```
 
-
-
 ## Uninstall
 
 - https://webhostinggeeks.com/howto/how-to-uninstall-jenkins-on-ubuntu/
