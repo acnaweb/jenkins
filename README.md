@@ -11,7 +11,7 @@ vagrant up
 
 ## Run
 
-- http://localhost:8081/
+- http://localhost:9001/
 
 ```sh
 sudo systemctl status jenkins
