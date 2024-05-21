@@ -36,3 +36,4 @@ sudo usermod -aG docker jenkins
 
 - https://www.jenkins.io/
 - https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
+- https://medium.com/@lilnya79/integrating-sonarqube-with-jenkins-fe20e454ccf4 
