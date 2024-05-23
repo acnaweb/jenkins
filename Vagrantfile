@@ -12,7 +12,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", path: "./scripts/provision.sh"
 
   config.vm.provider "virtualbox" do |provider|
-    provider.memory=2048
+    provider.memory=4096
     provider.cpus=2
     provider.customize ["modifyvm", :id, "--audio", "none"]   
     provider.customize ["modifyvm", :id, "--vram", "1"] 
